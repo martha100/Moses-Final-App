@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529434068070",
+    "project_id": "resident-app-51500",
+    "storage_bucket": "resident-app-51500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529434068070:android:87be310ef33613c89c99a7",
+        "android_client_info": {
+          "package_name": "com.example.residenthomes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529434068070-79lgo8tbp5f8f8k01ddp88r9odldgsc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMb3i93ndYOKHXc1241Cbs2YAeM8Riii8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529434068070-79lgo8tbp5f8f8k01ddp88r9odldgsc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

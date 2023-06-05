@@ -1,0 +1,428 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.residenthomes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:25:5-67
+11-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:25:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:26:5-79
+12-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:26:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:25:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:26:22-107
+16
+17    <permission
+17-->[androidx.core:core:1.10.0] /home/mousa/.gradle/caches/transforms-3/db85a864bbaa1e6d72a85f8440054db1/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+18        android:name="com.example.residenthomes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.10.0] /home/mousa/.gradle/caches/transforms-3/db85a864bbaa1e6d72a85f8440054db1/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.10.0] /home/mousa/.gradle/caches/transforms-3/db85a864bbaa1e6d72a85f8440054db1/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.example.residenthomes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.10.0] /home/mousa/.gradle/caches/transforms-3/db85a864bbaa1e6d72a85f8440054db1/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.10.0] /home/mousa/.gradle/caches/transforms-3/db85a864bbaa1e6d72a85f8440054db1/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:5:5-87:19
+24        android:allowBackup="true"
+24-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:6:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.10.0] /home/mousa/.gradle/caches/transforms-3/db85a864bbaa1e6d72a85f8440054db1/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:7:9-65
+27        android:debuggable="true"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:8:9-54
+29        android:icon="@mipmap/resident_logo"
+29-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:9:9-45
+30        android:label="@string/app_name"
+30-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:10:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:11:9-54
+32        android:supportsRtl="true"
+32-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:12:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.ResidentHomes" >
+34-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:13:9-51
+35        <activity
+35-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:15:9-17:40
+36            android:name="com.example.residenthomes.RoomActivity"
+36-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:16:13-41
+37            android:exported="false" />
+37-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:17:13-37
+38        <activity
+38-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:18:9-20:40
+39            android:name="com.example.residenthomes.AdminProfileActivity"
+39-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:19:13-49
+40            android:exported="false" />
+40-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:20:13-37
+41        <activity
+41-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:21:9-23:40
+42            android:name="com.example.residenthomes.ViewRoomActivity"
+42-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:22:13-45
+43            android:exported="false" />
+43-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:23:13-37
+44        <activity
+44-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:24:9-26:40
+45            android:name="com.example.residenthomes.LocationActivity"
+45-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:25:13-45
+46            android:exported="false" />
+46-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:26:13-37
+47        <activity
+47-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:27:9-29:40
+48            android:name="com.example.residenthomes.ViewLocationActivity"
+48-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:28:13-49
+49            android:exported="false" />
+49-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:29:13-37
+50        <activity
+50-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:30:9-32:40
+51            android:name="com.example.residenthomes.AddLocationActivity"
+51-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:31:13-48
+52            android:exported="false" />
+52-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:32:13-37
+53        <activity
+53-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:33:9-35:40
+54            android:name="com.example.residenthomes.StudentProfileActivity"
+54-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:34:13-51
+55            android:exported="false" />
+55-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:35:13-37
+56        <activity
+56-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:36:9-38:40
+57            android:name="com.example.residenthomes.AddRoomActivity"
+57-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:37:13-44
+58            android:exported="false" />
+58-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:38:13-37
+59        <activity
+59-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:39:9-41:40
+60            android:name="com.example.residenthomes.ViewAmenitiesActivity"
+60-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:40:13-50
+61            android:exported="false" />
+61-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:41:13-37
+62        <activity
+62-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:42:9-44:40
+63            android:name="com.example.residenthomes.AmenityActivity"
+63-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:43:13-44
+64            android:exported="false" />
+64-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:44:13-37
+65        <activity
+65-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:45:9-47:40
+66            android:name="com.example.residenthomes.AddAmenitiesActivity"
+66-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:46:13-49
+67            android:exported="false" />
+67-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:47:13-37
+68        <activity
+68-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:48:9-50:40
+69            android:name="com.example.residenthomes.HostelBookingActivity"
+69-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:49:13-50
+70            android:exported="false" />
+70-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:50:13-37
+71        <activity
+71-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:51:9-53:40
+72            android:name="com.example.residenthomes.RoomBookingActivity"
+72-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:52:13-48
+73            android:exported="false" />
+73-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:53:13-37
+74        <activity
+74-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:54:9-56:40
+75            android:name="com.example.residenthomes.HostelActivity"
+75-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:55:13-43
+76            android:exported="false" />
+76-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:56:13-37
+77        <activity
+77-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:57:9-59:40
+78            android:name="com.example.residenthomes.ViewHostelActivity"
+78-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:58:13-47
+79            android:exported="false" />
+79-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:59:13-37
+80        <activity
+80-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:60:9-62:40
+81            android:name="com.example.residenthomes.AddHostelActivity"
+81-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:61:13-46
+82            android:exported="false" />
+82-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:62:13-37
+83        <activity
+83-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:63:9-65:40
+84            android:name="com.example.residenthomes.AdminActivity"
+84-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:64:13-42
+85            android:exported="false" />
+85-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:65:13-37
+86        <activity
+86-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:66:9-68:40
+87            android:name="com.example.residenthomes.DashBoardActivity"
+87-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:67:13-46
+88            android:exported="false" />
+88-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:68:13-37
+89        <activity
+89-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:69:9-71:40
+90            android:name="com.example.residenthomes.HomeActivity"
+90-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:70:13-41
+91            android:exported="false" />
+91-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:71:13-37
+92        <activity
+92-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:72:9-74:40
+93            android:name="com.example.residenthomes.LoginActivity"
+93-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:73:13-42
+94            android:exported="false" />
+94-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:74:13-37
+95        <activity
+95-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:75:9-77:40
+96            android:name="com.example.residenthomes.RegisterActivity"
+96-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:76:13-45
+97            android:exported="false" />
+97-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:77:13-37
+98        <activity
+98-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:78:9-86:20
+99            android:name="com.example.residenthomes.SplashActivity"
+99-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:79:13-43
+100            android:exported="true" >
+100-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:80:13-36
+101            <intent-filter>
+101-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:81:13-85:29
+102                <action android:name="android.intent.action.MAIN" />
+102-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:82:17-69
+102-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:82:25-66
+103
+104                <category android:name="android.intent.category.LAUNCHER" />
+104-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:84:17-77
+104-->/home/mousa/AndroidStudioProjects/Resident/app/src/main/AndroidManifest.xml:84:27-74
+105            </intent-filter>
+106        </activity>
+107
+108        <service
+108-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/mousa/.gradle/caches/transforms-3/09ac06d5205ad9484cdbb7a0d674a3c8/transformed/firebase-database-ktx-20.2.1/AndroidManifest.xml:11:9-17:19
+109            android:name="com.google.firebase.components.ComponentDiscoveryService"
+109-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/mousa/.gradle/caches/transforms-3/09ac06d5205ad9484cdbb7a0d674a3c8/transformed/firebase-database-ktx-20.2.1/AndroidManifest.xml:12:13-84
+110            android:directBootAware="true"
+110-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+111            android:exported="false" >
+111-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/mousa/.gradle/caches/transforms-3/09ac06d5205ad9484cdbb7a0d674a3c8/transformed/firebase-database-ktx-20.2.1/AndroidManifest.xml:13:13-37
+112            <meta-data
+112-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/mousa/.gradle/caches/transforms-3/09ac06d5205ad9484cdbb7a0d674a3c8/transformed/firebase-database-ktx-20.2.1/AndroidManifest.xml:14:13-16:85
+113                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+113-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/mousa/.gradle/caches/transforms-3/09ac06d5205ad9484cdbb7a0d674a3c8/transformed/firebase-database-ktx-20.2.1/AndroidManifest.xml:15:17-124
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-database-ktx:20.2.1] /home/mousa/.gradle/caches/transforms-3/09ac06d5205ad9484cdbb7a0d674a3c8/transformed/firebase-database-ktx-20.2.1/AndroidManifest.xml:16:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/mousa/.gradle/caches/transforms-3/ed9f9fc4e016765ae2672280d06ffb6e/transformed/firebase-storage-ktx-20.2.0/AndroidManifest.xml:14:13-16:85
+116                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+116-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/mousa/.gradle/caches/transforms-3/ed9f9fc4e016765ae2672280d06ffb6e/transformed/firebase-storage-ktx-20.2.0/AndroidManifest.xml:15:17-122
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-storage-ktx:20.2.0] /home/mousa/.gradle/caches/transforms-3/ed9f9fc4e016765ae2672280d06ffb6e/transformed/firebase-storage-ktx-20.2.0/AndroidManifest.xml:16:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-auth-ktx:22.0.0] /home/mousa/.gradle/caches/transforms-3/28d60b05470ec5f4e504f6ca537a0a02/transformed/firebase-auth-ktx-22.0.0/AndroidManifest.xml:11:13-13:85
+119                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+119-->[com.google.firebase:firebase-auth-ktx:22.0.0] /home/mousa/.gradle/caches/transforms-3/28d60b05470ec5f4e504f6ca537a0a02/transformed/firebase-auth-ktx-22.0.0/AndroidManifest.xml:12:17-116
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-auth-ktx:22.0.0] /home/mousa/.gradle/caches/transforms-3/28d60b05470ec5f4e504f6ca537a0a02/transformed/firebase-auth-ktx-22.0.0/AndroidManifest.xml:13:17-82
+121            <meta-data
+121-->[com.google.firebase:firebase-analytics-ktx:21.2.2] /home/mousa/.gradle/caches/transforms-3/fb2e4c872853a50edc778682b41df511/transformed/firebase-analytics-ktx-21.2.2/AndroidManifest.xml:11:13-13:85
+122                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+122-->[com.google.firebase:firebase-analytics-ktx:21.2.2] /home/mousa/.gradle/caches/transforms-3/fb2e4c872853a50edc778682b41df511/transformed/firebase-analytics-ktx-21.2.2/AndroidManifest.xml:12:17-126
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[com.google.firebase:firebase-analytics-ktx:21.2.2] /home/mousa/.gradle/caches/transforms-3/fb2e4c872853a50edc778682b41df511/transformed/firebase-analytics-ktx-21.2.2/AndroidManifest.xml:13:17-82
+124            <meta-data
+124-->[com.google.firebase:firebase-common-ktx:20.3.2] /home/mousa/.gradle/caches/transforms-3/9a54bf7473b42cd89be49120e83dd5b6/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:14:13-16:85
+125                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+125-->[com.google.firebase:firebase-common-ktx:20.3.2] /home/mousa/.gradle/caches/transforms-3/9a54bf7473b42cd89be49120e83dd5b6/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:15:17-113
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-common-ktx:20.3.2] /home/mousa/.gradle/caches/transforms-3/9a54bf7473b42cd89be49120e83dd5b6/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:16:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:69:13-71:85
+128                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+128-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:70:17-109
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:71:17-82
+130            <meta-data
+130-->[com.google.firebase:firebase-database:20.2.1] /home/mousa/.gradle/caches/transforms-3/7661cc5d11cea5ac7c3294267edf462f/transformed/firebase-database-20.2.1/AndroidManifest.xml:31:13-33:85
+131                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+131-->[com.google.firebase:firebase-database:20.2.1] /home/mousa/.gradle/caches/transforms-3/7661cc5d11cea5ac7c3294267edf462f/transformed/firebase-database-20.2.1/AndroidManifest.xml:32:17-109
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-database:20.2.1] /home/mousa/.gradle/caches/transforms-3/7661cc5d11cea5ac7c3294267edf462f/transformed/firebase-database-20.2.1/AndroidManifest.xml:33:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-storage:20.2.0] /home/mousa/.gradle/caches/transforms-3/67bfac49bf7c64519c1ff3073923e810/transformed/firebase-storage-20.2.0/AndroidManifest.xml:32:13-34:85
+134                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+134-->[com.google.firebase:firebase-storage:20.2.0] /home/mousa/.gradle/caches/transforms-3/67bfac49bf7c64519c1ff3073923e810/transformed/firebase-storage-20.2.0/AndroidManifest.xml:33:17-107
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-storage:20.2.0] /home/mousa/.gradle/caches/transforms-3/67bfac49bf7c64519c1ff3073923e810/transformed/firebase-storage-20.2.0/AndroidManifest.xml:34:17-82
+136            <meta-data
+136-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:31:13-33:85
+137                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+137-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:32:17-139
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.android.gms:play-services-measurement-api:21.2.2] /home/mousa/.gradle/caches/transforms-3/d54ff24ea2bd6bad07f8551889972a85/transformed/play-services-measurement-api-21.2.2/AndroidManifest.xml:33:17-82
+139            <meta-data
+139-->[com.google.firebase:firebase-installations:17.1.3] /home/mousa/.gradle/caches/transforms-3/00e6fa1e519e73303aaafc357e94c60f/transformed/firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
+140                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+140-->[com.google.firebase:firebase-installations:17.1.3] /home/mousa/.gradle/caches/transforms-3/00e6fa1e519e73303aaafc357e94c60f/transformed/firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.firebase:firebase-installations:17.1.3] /home/mousa/.gradle/caches/transforms-3/00e6fa1e519e73303aaafc357e94c60f/transformed/firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
+142        </service>
+143
+144        <activity
+144-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:29:9-46:20
+145            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+145-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:30:13-80
+146            android:excludeFromRecents="true"
+146-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:31:13-46
+147            android:exported="true"
+147-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:32:13-36
+148            android:launchMode="singleTask"
+148-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:33:13-44
+149            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+149-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:34:13-72
+150            <intent-filter>
+150-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:35:13-45:29
+151                <action android:name="android.intent.action.VIEW" />
+151-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:36:17-69
+151-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:36:25-66
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:38:17-76
+153-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:38:27-73
+154                <category android:name="android.intent.category.BROWSABLE" />
+154-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:39:17-78
+154-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:39:27-75
+155
+156                <data
+156-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:41:17-44:51
+157                    android:host="firebase.auth"
+157-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:42:21-49
+158                    android:path="/"
+158-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:43:21-37
+159                    android:scheme="genericidp" />
+159-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:44:21-48
+160            </intent-filter>
+161        </activity>
+162        <activity
+162-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:47:9-64:20
+163            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+163-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:48:13-79
+164            android:excludeFromRecents="true"
+164-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:49:13-46
+165            android:exported="true"
+165-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:50:13-36
+166            android:launchMode="singleTask"
+166-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:51:13-44
+167            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+167-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:52:13-72
+168            <intent-filter>
+168-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:53:13-63:29
+169                <action android:name="android.intent.action.VIEW" />
+169-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:36:17-69
+169-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:36:25-66
+170
+171                <category android:name="android.intent.category.DEFAULT" />
+171-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:38:17-76
+171-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:38:27-73
+172                <category android:name="android.intent.category.BROWSABLE" />
+172-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:39:17-78
+172-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:39:27-75
+173
+174                <data
+174-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:41:17-44:51
+175                    android:host="firebase.auth"
+175-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:42:21-49
+176                    android:path="/"
+176-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:43:21-37
+177                    android:scheme="recaptcha" />
+177-->[com.google.firebase:firebase-auth:22.0.0] /home/mousa/.gradle/caches/transforms-3/cbc1517a8ddcc0073f3f87ae7561e316/transformed/firebase-auth-22.0.0/AndroidManifest.xml:44:21-48
+178            </intent-filter>
+179        </activity>
+180
+181        <provider
+181-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+182            android:name="com.google.firebase.provider.FirebaseInitProvider"
+182-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+183            android:authorities="com.example.residenthomes.firebaseinitprovider"
+183-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+184            android:directBootAware="true"
+184-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+185            android:exported="false"
+185-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+186            android:initOrder="100" />
+186-->[com.google.firebase:firebase-common:20.3.2] /home/mousa/.gradle/caches/transforms-3/1f19873bb435b37a3d5c1dcf657e1fce/transformed/firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+187
+188        <activity
+188-->[com.google.android.gms:play-services-base:18.1.0] /home/mousa/.gradle/caches/transforms-3/3b27d1c1d9449960d28cb5caa2b8d7d2/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+189            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+189-->[com.google.android.gms:play-services-base:18.1.0] /home/mousa/.gradle/caches/transforms-3/3b27d1c1d9449960d28cb5caa2b8d7d2/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+190            android:exported="false"
+190-->[com.google.android.gms:play-services-base:18.1.0] /home/mousa/.gradle/caches/transforms-3/3b27d1c1d9449960d28cb5caa2b8d7d2/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+191            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+191-->[com.google.android.gms:play-services-base:18.1.0] /home/mousa/.gradle/caches/transforms-3/3b27d1c1d9449960d28cb5caa2b8d7d2/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+192
+193        <receiver
+193-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:29:9-33:20
+194            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+194-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:30:13-85
+195            android:enabled="true"
+195-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:31:13-35
+196            android:exported="false" >
+196-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:32:13-37
+197        </receiver>
+198
+199        <service
+199-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:35:9-38:40
+200            android:name="com.google.android.gms.measurement.AppMeasurementService"
+200-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:36:13-84
+201            android:enabled="true"
+201-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:37:13-35
+202            android:exported="false" />
+202-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:38:13-37
+203        <service
+203-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:39:9-43:72
+204            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+204-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:40:13-87
+205            android:enabled="true"
+205-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:41:13-35
+206            android:exported="false"
+206-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:42:13-37
+207            android:permission="android.permission.BIND_JOB_SERVICE" />
+207-->[com.google.android.gms:play-services-measurement:21.2.2] /home/mousa/.gradle/caches/transforms-3/d21b0522edb2f8a38c252609ce22bf02/transformed/play-services-measurement-21.2.2/AndroidManifest.xml:43:13-69
+208
+209        <meta-data
+209-->[com.google.android.gms:play-services-basement:18.1.0] /home/mousa/.gradle/caches/transforms-3/88a414c9df1028b10502d50b471d47f2/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+210            android:name="com.google.android.gms.version"
+210-->[com.google.android.gms:play-services-basement:18.1.0] /home/mousa/.gradle/caches/transforms-3/88a414c9df1028b10502d50b471d47f2/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+211            android:value="@integer/google_play_services_version" />
+211-->[com.google.android.gms:play-services-basement:18.1.0] /home/mousa/.gradle/caches/transforms-3/88a414c9df1028b10502d50b471d47f2/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+212
+213        <provider
+213-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+214            android:name="androidx.startup.InitializationProvider"
+214-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+215            android:authorities="com.example.residenthomes.androidx-startup"
+215-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+216            android:exported="false" >
+216-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+217            <meta-data
+217-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+218                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+218-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+219                android:value="androidx.startup" />
+219-->[androidx.emoji2:emoji2:1.2.0] /home/mousa/.gradle/caches/transforms-3/dae917e5bd4d784b49b92758b17f6192/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+220            <meta-data
+220-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/mousa/.gradle/caches/transforms-3/028230f0bfdb2fe8cde9b42200ffb96e/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+221                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+221-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/mousa/.gradle/caches/transforms-3/028230f0bfdb2fe8cde9b42200ffb96e/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+222                android:value="androidx.startup" />
+222-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/mousa/.gradle/caches/transforms-3/028230f0bfdb2fe8cde9b42200ffb96e/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+223        </provider>
+224    </application>
+225
+226</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="carolyne">#03E0F4</color>
+    <color name="keziah">#FD06C2F1</color>
+    <color name="santanna">#FD005F8E</color>
+    <color name="splash">#FD0AA6F4</color>
+    <color name="topBar">#FD005F8E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Resident</string>
+    <string name="default_web_client_id" translatable="false">529434068070-79lgo8tbp5f8f8k01ddp88r9odldgsc7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">529434068070</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMb3i93ndYOKHXc1241Cbs2YAeM8Riii8</string>
+    <string name="google_app_id" translatable="false">1:529434068070:android:87be310ef33613c89c99a7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMb3i93ndYOKHXc1241Cbs2YAeM8Riii8</string>
+    <string name="google_storage_bucket" translatable="false">resident-app-51500.appspot.com</string>
+    <string name="project_id" translatable="false">resident-app-51500</string>
+    <style name="Base.Theme.ResidentHomes" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/topBar</item>
+    </style>
+    <style name="Theme.ResidentHomes" parent="Base.Theme.ResidentHomes"/>
+</resources>

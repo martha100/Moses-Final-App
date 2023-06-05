@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    android:gravity="center_vertical"
+    android:background="@drawable/room_bg"
+    android:orientation="vertical"
+    tools:context=".RoomBookingActivity">
+
+    <TextView
+        android:id="@+id/mTvHostelBooking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:text="Hostel Booking"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/mEditHostelName"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        android:ems="10"
+        android:textColorHint="@color/black"
+        android:paddingLeft="30dp"
+        android:maxLength="28"
+        android:background="@drawable/keziah"
+        android:hint="Hostel Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/mEditStudentName"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        android:ems="10"
+        android:textColorHint="@color/black"
+        android:paddingLeft="30dp"
+        android:maxLength="20"
+        android:background="@drawable/keziah"
+        android:hint="Student Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/mEditPhoneNumber"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:ems="10"
+        android:textColorHint="@color/black"
+        android:paddingLeft="30dp"
+        android:background="@drawable/keziah"
+        android:maxLength="12"
+        android:hint="Phone Number"
+        android:inputType="number" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="30dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/auto_complete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/keziah"
+            android:hint="Room"
+            android:inputType="none"
+            android:paddingLeft="30dp"
+            android:textColorHint="@color/black" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <EditText
+        android:id="@+id/mEditEntryDate"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:textColorHint="@color/black"
+        android:paddingLeft="30dp"
+        android:background="@drawable/keziah"
+        android:maxLength="25"
+        android:hint="Entry Date"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/mBtnBook"
+        android:layout_width="133dp"
+        android:layout_height="58dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:text="Book Now"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="@color/splash" />
+</LinearLayout>

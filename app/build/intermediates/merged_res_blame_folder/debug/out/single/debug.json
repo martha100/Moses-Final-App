@@ -1,0 +1,930 @@
+[
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_security_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_security_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_house_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_house_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_username_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_username_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_email_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_hostel.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_hostel.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_admin.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/admin.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_amenity.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_amenity.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_account_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_add_home_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_add_home_24.xml"
+    },
+    {
+        "merged": "com.example.residenthomes.app-merged_res-35:/layout_activity_student_profile.xml.flat",
+        "source": "com.example.residenthomes.app-main-37:/layout/activity_student_profile.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_view_cozy_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_home_repair_service_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_bookmark_added_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_bookmark_added_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_display.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/display.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_location_on_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_view_cozy_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_bedroom_child_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_add_location.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_add_location.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_username_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_username_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_view_cozy_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-mdpi_resident_logo.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-mdpi/resident_logo.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_resident_logo_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/resident_logo_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_admin_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_admin_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_email_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_email_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_student_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_student_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_bookmark_added_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_bookmark_added_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_student_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_student_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_house_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_house_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_view_hostel.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/view_hostel.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.residenthomes.app-merged_res-35:/drawable_trial.jpeg.flat",
+        "source": "com.example.residenthomes.app-main-37:/drawable/trial.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_rooms_item.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/rooms_item.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_register_bg.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/register_bg.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_add_home_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_add_home_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_image_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_image_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_keziah.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/keziah.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_account_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_view_hostel.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_view_hostel.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_security_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_security_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_image_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_image_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_email_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_dash_boardactivity.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_dash_boardactivity.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_house_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_house_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_logout_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_logout_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_room_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_room_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_admin.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_room_booking.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_room_booking.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_hostel.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/hostel.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_house_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_house_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_bedroom_child_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_view_amenities.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_view_amenities.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxxhdpi_resident_logo_foreground.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxxhdpi/resident_logo_foreground.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_resident_splash.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/resident_splash.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_security_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_security_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_add_location_alt_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_add_location_alt_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_image_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_image_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_location_on_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_room_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_room_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_account_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_bookmark_added_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_bookmark_added_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_logout_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_logout_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxxhdpi_resident_logo_round.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxxhdpi/resident_logo_round.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_view_room.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_view_room.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_location_on_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_splash.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_home_repair_service_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_image_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_image_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_location_on_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_room_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_room_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_logout_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_logout_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_resident_logo_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/resident_logo_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_bedroom_child_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_logout_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_logout_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_security_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_security_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_view_cozy_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-hdpi_resident_logo_round.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-hdpi/resident_logo_round.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-hdpi_resident_logo_foreground.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-hdpi/resident_logo_foreground.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_view_cozy_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_room_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_room_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_bedroom_child_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_logout_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_logout_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-mdpi_resident_logo_round.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-mdpi/resident_logo_round.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_amenities.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/amenities.jpeg"
+    },
+    {
+        "merged": "com.example.residenthomes.app-merged_res-35:/layout_view_rooms.xml.flat",
+        "source": "com.example.residenthomes.app-main-37:/layout/view_rooms.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_bookmark_added_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_bookmark_added_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_amenity.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/amenity.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_hostel_booking.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/hostel_booking.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_hostel_booking.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_hostel_booking.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_location_on_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_image_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_image_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_home_repair_service_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_home_repair_service_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_bedroom_child_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_resident_logo_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/resident_logo_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_home_repair_service_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_bedroom_child_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_bedroom_child_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_add_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_admin_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_admin_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_room_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_room_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xhdpi_resident_logo_foreground.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xhdpi/resident_logo_foreground.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_house_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_house_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_home.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_location_on_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_admin_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_admin_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_email_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_account_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_location.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_location.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_admin_profile.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_admin_profile.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-hdpi_resident_logo.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-hdpi/resident_logo.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxhdpi_resident_logo_foreground.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxhdpi/resident_logo_foreground.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_add_location_alt_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_add_location_alt_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_location_on_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_add_photo_alternate_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_add_photo_alternate_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxxhdpi_resident_logo.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxxhdpi/resident_logo.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_admin_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_admin_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_username_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_username_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_login.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/login.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_resident_logo_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/resident_logo_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_view_cozy_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_student_profile.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_student_profile.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_santanna.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/santanna.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_add_location_alt_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_student_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_student_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_add_home_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_add_home_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_add_home_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_add_home_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_resident_logo_background.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/resident_logo_background.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_view_amenity.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/view_amenity.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_add_room.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_add_room.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_house_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_house_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_username_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_username_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_username_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_username_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_security_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_security_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_room.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_room.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_room_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_room_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_view_location.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_view_location.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_home_repair_service_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_account_circle_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_image_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_image_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_email_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_account_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxhdpi_resident_logo_round.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxhdpi/resident_logo_round.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_security_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_security_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_house_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_house_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_email_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_email_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_add_amenities.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_add_amenities.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_view_rooms.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/view_rooms.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_home_repair_service_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_add_circle_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_add_location_alt_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-anydpi-v26_resident_logo.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-anydpi-v26/resident_logo.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_student_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_student_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_home_repair_service_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-anydpi-v26_resident_logo_round.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-anydpi-v26/resident_logo_round.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_student_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_student_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_image_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_image_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_view_cozy_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_view_cozy_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_student_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_student_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_display_home.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/display_home.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_room_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_room_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_add_home_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_add_home_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xhdpi_resident_logo.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xhdpi/resident_logo.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_username_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_username_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_add_home_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_add_home_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_logout_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_logout_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_student_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_student_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_baseline_bookmark_added_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/baseline_bookmark_added_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_admin_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_admin_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_bedroom_child_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-mdpi_resident_logo_foreground.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-mdpi/resident_logo_foreground.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_add_location_alt_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_account_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_account_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xhdpi_resident_logo_round.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xhdpi/resident_logo_round.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_logout_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_logout_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_security_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_security_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_resident.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/resident.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_dash.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/dash.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-hdpi_resident_logo_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-hdpi/resident_logo_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxhdpi_baseline_username_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxhdpi/baseline_username_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_resident_logo_background.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/resident_logo_background.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_bookmark_added_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_bookmark_added_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-anydpi-v21_baseline_admin_panel_settings_24.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-anydpi-v21/baseline_admin_panel_settings_24.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_room_bg.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/room_bg.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_add_hostel.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_add_hostel.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_add_home_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_add_home_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-mdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-mdpi/baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxhdpi_resident_logo.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxhdpi/resident_logo.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_carolyne.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/carolyne.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-ldpi_baseline_admin_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-ldpi/baseline_admin_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_admin_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_admin_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable_hostel_bg.jpeg.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-main-37:/drawable/hostel_bg.jpeg"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xxxhdpi_baseline_bookmark_added_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xxxhdpi/baseline_bookmark_added_24.png"
+    },
+    {
+        "merged": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-35:/drawable-xhdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/mousa/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-31:/drawable-xhdpi/baseline_add_location_alt_24.png"
+    }
+]
